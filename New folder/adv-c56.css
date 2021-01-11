@@ -1,0 +1,10 @@
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 750;
+}
+body{
+    background-color: greenyellow;
+}
